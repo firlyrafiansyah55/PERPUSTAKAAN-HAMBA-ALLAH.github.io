@@ -1,0 +1,25 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+
+#projects {
+    background-color: #e2edff;
+}
+
+section {
+    padding-top: 6rem;
+}
+
+footer {
+    color: white;
+}
+
+footer a:hover {
+    color: white;
+    text-decoration: white;
+}
+
+a {
+    padding: 0px 10px 0px 10px;
+}
